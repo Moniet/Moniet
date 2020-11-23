@@ -10,5 +10,5 @@
 - 📫 moniet.sawhney@gmail.com 
 
 ## Social 
-📷 https://www.instagram.com/moniet.dev/
-💻 https://www.linkedin.com/in/moniet/
+- 📷 https://www.instagram.com/moniet.dev/
+- 💻 https://www.linkedin.com/in/moniet/
