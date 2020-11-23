@@ -1,16 +1,16 @@
-### Hi there 👋
+# Moniet Sawhney
+#### Front-End Developer
 
-<!--
-**Moniet/Moniet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Services 
+I can:
+• build your web app with React 
+• build your mobile app to work on IOS and Android with React Native
+• design your website & mobile app
+• build beautiful animations to enhance user experience
 
-Here are some ideas to get you started:
+## Contact 
+- 📫 moniet.sawhney@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social 
+📷 https://www.instagram.com/moniet.dev/
+💻 https://www.linkedin.com/in/moniet/
