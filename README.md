@@ -1,5 +1,4 @@
-# Moniet Sawhney
-#### Front-End Developer
+# Moniet Sawhney • Front End Developer
 
 ## Services 
 I can:
