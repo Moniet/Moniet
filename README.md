@@ -14,5 +14,5 @@ A self-started and a front-end developer with experience in **React**, **Next.js
 
 
 <a href="#">
-  <img src="https://raw.githubusercontent.com/Moniet/assets/main/tech-im-learining.svg"  alt="Technology I am learning" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/20152320/155715146-9d85104e-6714-485b-98d3-39de4a43c1b1.svg"  alt="Technology I am learning" width="50%"/>
 </a>
