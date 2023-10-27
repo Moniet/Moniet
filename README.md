@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Moniet/assets/main/minimal-landscape-(portrait).svg" alt="Mountains Animation Banner" />
 
 ## I am :
-A self-started and a front-end developer with experience in **React**, **Next.js**, & **Storybook** at production scale and strive for a growth mindset to continuously learn and improve. I also dabble on the backend, working on tech such as **Node**, **Express**, **Fauna DB**, and Cloudflare workers.
+A self-started and a front-end developer with experience in **React**, **Next.js**, & **Storybook** at production scale and strive for a growth mindset to continuously learn and improve. I also dabble on the backend, working on tech such as **Node**, **Express**, **Mongo DB**, and Cloudflare workers.
 ## Tech I work with
 
 <a href="#">
